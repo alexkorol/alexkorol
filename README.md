@@ -15,7 +15,6 @@
 
 ### 🌟 My Skill Set
 
-```text
 🌍 Web3 Technologies: Solidity, Smart Contract Audits
 🤖 AI & Language Models: Stable Diffusion, ChatGPT, Prompt Engineering
 🐍 Programming Languages: Python
