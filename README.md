@@ -1,27 +1,26 @@
-# Hi there, I'm Alex Korol aka @alexkorol 👋
+# Hi there, I'm Alex Korol aka @alexkorol
 
-![Twitter Follow](https://img.shields.io/twitter/follow/GainsdalfGwei?style=social)
-![LinkedIn Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexei-korol-b58a183a/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/GainsdalfGwei?style=social)](https://twitter.com/GainsdalfGwei)
+[![LinkedIn Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexei-korol/)](https://www.linkedin.com/in/alexei-korol/)
+[![Medium](https://img.shields.io/badge/-Read%20on%20Medium-black?style=flat-square&logo=medium&link=https://medium.com/@korolalexei)](https://medium.com/@korolalexei)
 
-## 🔥 Web3 Creator, Python & Solidity Enthusiast, Stable Diffusion latent space explorer 🔥
+## AI Engineer | Generative AI Specialist | Web3 Developer
 
-🌐 Exploring the world of **Web3** and **Blockchain** technologies, I specialize in **Solidity** and **Smart Contract Audits**. My passion lies in designing, implementing, and auditing decentralized applications to ensure their security and reliability.
+With a focus on Generative AI, I specialize in technologies like Stable Diffusion, training custom models, and fine-tuning LORAs. My work in AI extends to machine learning, data analysis, and image processing, with over 20 years of experience in Photoshop.
 
-🤖 As a **machine learning** enthusiast, I aim to create meaningful and clean datasets and fine-tune powerful AI models.
+My background also includes Web3 and Blockchain technologies, with expertise in Solidity Development and Smart Contract Auditing.
 
-🐍 My expertise in **Python** and **Web Development** enables me to craft versatile and scalable applications, while my knowledge of **Stable Diffusion** and **Automation** helps streamline and enhance various creative workflows.
+I contribute to the community through content creation, sharing insights on cutting-edge technologies. You can read my articles about AI projects and trends on [Medium](https://medium.com/@korolalexei).
 
-✍️ In my spare time, I enjoy **Content Creation** to share my insights, knowledge, and experiences with the internet community.
-
-### 🌟 My Skill Set
-
-🌍 Web3 Technologies: Solidity, Smart Contract Audits
-🤖 AI & Language Models: Stable Diffusion and LLMs
-🐍 Programming Languages: Python
-📐 Web Development: HTML, CSS, JavaScript, React
-🌀 Automation, APIs, Web Scraping
-✍️ Content Creation and SEO
-
+### Skill Set
+- AI & Generative Models: Stable Diffusion, custom model training, ControlNet, Midjourney
+- Programming Languages: Python, JavaScript
+- Scripting Languages like LUA and PineScript
+- Web Development: HTML, CSS, JavaScript, React
+- Image Processing: Photoshop, Corel Painter
+- Web3 Technologies: Solidity, Smart Contract Audits
+- Automation, APIs, Web Scraping
+- Content Creation and SEO
 
 <!---
 alexkorol/alexkorol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
